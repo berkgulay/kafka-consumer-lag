@@ -2,6 +2,7 @@
 Scheduled Receiver Service for Monitoring Lag of Kafka Consumers with JAVA
 ![](https://user-images.githubusercontent.com/20780894/53306658-f3ef9b80-38a0-11e9-8e20-b4d77e929cdd.JPG)
 
+**_Usage:_** Set BOOTSTRAP_SERVER variable in _ScheduledKafkaConsumerLagReceiver.java_ to your Kafka bootstrap server and start application (Schedule time can be arranged from same file)
 
 ![](https://user-images.githubusercontent.com/20780894/53306688-5c3e7d00-38a1-11e9-849c-de4e58ca1535.png)
 
