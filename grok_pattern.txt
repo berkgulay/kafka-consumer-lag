@@ -1,0 +1,3 @@
+GROK PATTERN
+
+CONSUMER_INFO_AND_LAG: %{DATA:group} %{WORD:topic} %{NUMBER:partition:int} %{NUMBER:lag:int} %{USERNAME:clientId} %{IP:host}
