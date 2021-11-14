@@ -1,4 +1,4 @@
-# KafkaConsumerLagReceiver
+# Kafka Consumer Lag Receiver
 Scheduled Receiver Service for Monitoring Lag of Kafka Consumers with JAVA
 ![](https://user-images.githubusercontent.com/20780894/53306658-f3ef9b80-38a0-11e9-8e20-b4d77e929cdd.JPG)
 
